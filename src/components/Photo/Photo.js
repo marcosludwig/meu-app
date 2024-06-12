@@ -1,3 +1,4 @@
+import './Photo.css';
 import React from 'react';
 
 const Photo = ({ photo, children }) => {

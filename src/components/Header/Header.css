@@ -1,6 +1,6 @@
 header {
-  background-color: #333;
-  color: #fff;
+  background-color: #333333;
+  color: #ffffff;
   padding: 1rem;
   text-align: center;
 }
@@ -16,8 +16,8 @@ button {
   padding: 0.5rem 1rem;
   outline: none;
   border: none;
-  background-color: #4CAF50;
-  color: #fff;
+  background-color: #23d18b;
+  color: #ffffff;
   border-radius: 10px;
   font-size: 1rem;
   cursor: pointer;
